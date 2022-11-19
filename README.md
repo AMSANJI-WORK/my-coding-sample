@@ -1,2 +1,2 @@
 # demo-code
-this is a demo source code and can not able to run it 
+this is a demo source code and you cannot run it
